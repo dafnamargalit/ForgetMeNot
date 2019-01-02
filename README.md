@@ -12,9 +12,11 @@ Have the following installed:
 
 After forking this repository, in Terminal, run:
 
->cd ForgetMeNot
->yarn install
->react-native run-ios
+<pre><code> 
+cd ForgetMeNot
+yarn install
+react-native run-ios
+</code></pre>
 
 # Video Demo
 
